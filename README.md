@@ -1,2 +1,2 @@
 # online_exam_System
-The Online System project aims to enhance user experiences, streamline processes, and foster engagement in an online environment. Depending on the specific requirements, technologies like HTML/CSS, Java
+The Online System project aims to enhance user experiences, streamline processes, and foster engagement in an online environment. Depending on the specific requirements, technologies like HTML/CSS, JavaScript, PHP, Python, or Java, along with databases like MySQL or MongoDB, may be used to implement the system. Additionally, the project will adhere to best practices in web development, user experience design, and data security to deliver a robust and reliable online system.
